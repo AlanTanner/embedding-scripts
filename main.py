@@ -1,8 +1,8 @@
 import clean
-
+import embedding
 #runs clean.py
- clean.main()
+clean.main()
 
- #runs embeddings.py
-
+#runs embedding.py
+embedding.main()
  #runs indexing.py

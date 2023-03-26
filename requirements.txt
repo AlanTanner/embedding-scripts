@@ -1,0 +1,2 @@
+cleantext==1.1.4
+openai==0.27.2
