@@ -12,7 +12,3 @@ for filename in os.listdir('data/raw'):
 #write cleaned text to new file
         with open('data/cleaned/' + filename.split('.')[0] + '.cleaned', 'w') as f:
             f.write(cleaned_text)
-                
-
-
-
